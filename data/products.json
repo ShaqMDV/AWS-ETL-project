@@ -1,0 +1,100 @@
+[
+    {
+        "product_id": 1,
+        "name": "Flavoured iced latte",
+        "variant": "Hazelnut",
+        "size": "Regular",
+        "price": 2.75
+    },
+    {
+        "product_id": 2,
+        "name": "Speciality Tea",
+        "variant": "Green",
+        "size": "Large",
+        "price": 1.6
+    },
+    {
+        "product_id": 3,
+        "name": "Smoothies",
+        "variant": "Glowing Greens",
+        "size": "Regular",
+        "price": 2.0
+    },
+    {
+        "product_id": 4,
+        "name": "Flavoured iced latte",
+        "variant": "Hazelnut",
+        "size": "Large",
+        "price": 3.25
+    },
+    {
+        "product_id": 5,
+        "name": "Speciality Tea",
+        "variant": "Earl Grey",
+        "size": "Regular",
+        "price": 1.3
+    },
+    {
+        "product_id": 6,
+        "name": "Speciality Tea",
+        "variant": "Green",
+        "size": "Regular",
+        "price": 1.3
+    },
+    {
+        "product_id": 7,
+        "name": "Smoothies",
+        "variant": "Carrot Kick",
+        "size": "Regular",
+        "price": 2.0
+    },
+    {
+        "product_id": 8,
+        "name": "Speciality Tea",
+        "variant": "Fruit",
+        "size": "Large",
+        "price": 1.6
+    },
+    {
+        "product_id": 9,
+        "name": "Smoothies",
+        "variant": "Glowing Greens",
+        "size": "Large",
+        "price": 2.5
+    },
+    {
+        "product_id": 10,
+        "name": "Smoothies",
+        "variant": "Carrot Kick",
+        "size": "Large",
+        "price": 2.5
+    },
+    {
+        "product_id": 11,
+        "name": "Speciality Tea",
+        "variant": "Fruit",
+        "size": "Regular",
+        "price": 1.3
+    },
+    {
+        "product_id": 12,
+        "name": "Speciality Tea",
+        "variant": "Earl Grey",
+        "size": "Large",
+        "price": 1.6
+    },
+    {
+        "product_id": 13,
+        "name": "Flavoured latte",
+        "variant": "Hazelnut",
+        "size": "Large",
+        "price": 2.85
+    },
+    {
+        "product_id": 14,
+        "name": "Flavoured latte",
+        "variant": "Hazelnut",
+        "size": "Regular",
+        "price": 2.55
+    }
+]

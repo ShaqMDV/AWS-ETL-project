@@ -1,0 +1,40 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: >
+  Brew and Byte Coffee Shop cloudformation setup for deployment bucket
+
+Parameters:
+  TeamName:
+    Type: String
+    Description: Enter your name, in format 'first-last', used as the prefix of the S3 bucket name
+    Default: brew-and-byte
+
+Resources:
+  S3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub '${TeamName}-cafe-deployment-bucket'
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: True
+        BlockPublicPolicy: True
+        IgnorePublicAcls: True
+        RestrictPublicBuckets: True
+      Tags:
+        - Key: Name
+          Value: !Sub '${TeamName}-cafe-deployment-bucket'
+
+  S3BucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref S3Bucket
+      PolicyDocument:
+        Statement:
+          - Sid: "AllowSSLRequestsOnly"
+            Action: "s3:*"
+            Principal: "*"
+            Effect: "Deny"
+            Resource:
+              - !Sub "arn:aws:s3:::${TeamName}-cafe-deployment-bucket"
+              - !Sub "arn:aws:s3:::${TeamName}-cafe-deployment-bucket/*"
+            Condition:
+              Bool:
+                aws:SecureTransport: "false"

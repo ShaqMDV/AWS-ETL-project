@@ -1,0 +1,2249 @@
+[
+    {
+        "payment_id": 1,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:00:00",
+        "total_amount": 4.35,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 2,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:01:00",
+        "total_amount": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 3,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:03:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 4,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:05:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 5,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:07:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 6,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:09:00",
+        "total_amount": 7.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 7,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:10:00",
+        "total_amount": 6.8,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 8,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:12:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 9,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:14:00",
+        "total_amount": 2.75,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 10,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:16:00",
+        "total_amount": 4.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 11,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:18:00",
+        "total_amount": 8.4,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 12,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:19:00",
+        "total_amount": 4.1,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 13,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:21:00",
+        "total_amount": 5.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 14,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:23:00",
+        "total_amount": 7.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 15,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:25:00",
+        "total_amount": 13.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 16,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:27:00",
+        "total_amount": 10.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 17,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:29:00",
+        "total_amount": 1.95,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 18,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:30:00",
+        "total_amount": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 19,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:32:00",
+        "total_amount": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 20,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:34:00",
+        "total_amount": 13.05,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 21,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:36:00",
+        "total_amount": 4.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 22,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:38:00",
+        "total_amount": 3.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 23,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:39:00",
+        "total_amount": 9.4,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 24,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:41:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 25,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:43:00",
+        "total_amount": 9.7,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 26,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:45:00",
+        "total_amount": 8.2,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 27,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:47:00",
+        "total_amount": 8.75,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 28,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:49:00",
+        "total_amount": 2.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 29,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:50:00",
+        "total_amount": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 30,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:52:00",
+        "total_amount": 9.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 31,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:54:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 32,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:56:00",
+        "total_amount": 8.4,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 33,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:58:00",
+        "total_amount": 7.7,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 34,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 09:59:00",
+        "total_amount": 6.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 35,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:01:00",
+        "total_amount": 9.95,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 36,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:03:00",
+        "total_amount": 3.9,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 37,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:04:00",
+        "total_amount": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 38,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:05:00",
+        "total_amount": 7.15,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 39,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:07:00",
+        "total_amount": 5.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 40,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:08:00",
+        "total_amount": 7.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 41,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:09:00",
+        "total_amount": 10.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 42,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:11:00",
+        "total_amount": 9.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 43,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:12:00",
+        "total_amount": 2.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 44,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:13:00",
+        "total_amount": 13.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 45,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:15:00",
+        "total_amount": 6.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 46,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:16:00",
+        "total_amount": 9.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 47,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:17:00",
+        "total_amount": 9.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 48,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:19:00",
+        "total_amount": 7.9,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 49,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:20:00",
+        "total_amount": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 50,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:21:00",
+        "total_amount": 2.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 51,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:23:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 52,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:24:00",
+        "total_amount": 5.5,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 53,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:25:00",
+        "total_amount": 4.0,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 54,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:27:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 55,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:28:00",
+        "total_amount": 14.8,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 56,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:29:00",
+        "total_amount": 13.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 57,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:31:00",
+        "total_amount": 5.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 58,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:32:00",
+        "total_amount": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 59,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:33:00",
+        "total_amount": 10.4,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 60,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:35:00",
+        "total_amount": 13.15,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 61,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:36:00",
+        "total_amount": 6.85,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 62,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:37:00",
+        "total_amount": 3.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 63,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:39:00",
+        "total_amount": 6.15,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 64,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:40:00",
+        "total_amount": 5.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 65,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:41:00",
+        "total_amount": 7.65,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 66,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:43:00",
+        "total_amount": 8.8,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 67,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:44:00",
+        "total_amount": 5.85,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 68,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:45:00",
+        "total_amount": 6.9,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 69,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:47:00",
+        "total_amount": 13.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 70,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:48:00",
+        "total_amount": 6.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 71,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:49:00",
+        "total_amount": 2.0,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 72,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:51:00",
+        "total_amount": 9.2,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 73,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:52:00",
+        "total_amount": 4.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 74,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:53:00",
+        "total_amount": 12.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 75,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:55:00",
+        "total_amount": 2.75,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 76,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:56:00",
+        "total_amount": 4.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 77,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:57:00",
+        "total_amount": 2.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 78,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 10:59:00",
+        "total_amount": 6.55,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 79,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:00:00",
+        "total_amount": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 80,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:02:00",
+        "total_amount": 12.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 81,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:05:00",
+        "total_amount": 5.2,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 82,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:07:00",
+        "total_amount": 4.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 83,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:10:00",
+        "total_amount": 8.4,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 84,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:12:00",
+        "total_amount": 4.5,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 85,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:15:00",
+        "total_amount": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 86,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:17:00",
+        "total_amount": 9.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 87,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:20:00",
+        "total_amount": 8.7,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 88,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:22:00",
+        "total_amount": 2.6,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 89,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:25:00",
+        "total_amount": 3.8,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 90,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:27:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 91,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:30:00",
+        "total_amount": 11.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 92,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:32:00",
+        "total_amount": 7.25,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 93,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:35:00",
+        "total_amount": 6.8,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 94,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:37:00",
+        "total_amount": 2.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 95,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:40:00",
+        "total_amount": 5.7,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 96,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:42:00",
+        "total_amount": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 97,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:45:00",
+        "total_amount": 12.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 98,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:47:00",
+        "total_amount": 4.75,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 99,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:50:00",
+        "total_amount": 4.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 100,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:52:00",
+        "total_amount": 12.75,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 101,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:55:00",
+        "total_amount": 3.2,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 102,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 11:57:00",
+        "total_amount": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 103,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 12:00:00",
+        "total_amount": 10.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 104,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 12:12:00",
+        "total_amount": 6.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 105,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 12:24:00",
+        "total_amount": 11.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 106,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 12:36:00",
+        "total_amount": 7.45,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 107,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 12:48:00",
+        "total_amount": 10.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 108,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:00:00",
+        "total_amount": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 109,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:01:00",
+        "total_amount": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 110,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:02:00",
+        "total_amount": 11.1,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 111,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:03:00",
+        "total_amount": 2.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 112,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:04:00",
+        "total_amount": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 113,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:05:00",
+        "total_amount": 9.35,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 114,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:06:00",
+        "total_amount": 6.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 115,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:07:00",
+        "total_amount": 11.8,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 116,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:08:00",
+        "total_amount": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 117,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:09:00",
+        "total_amount": 4.8,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 118,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:10:00",
+        "total_amount": 9.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 119,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:11:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 120,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:13:00",
+        "total_amount": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 121,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:14:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 122,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:15:00",
+        "total_amount": 6.8,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 123,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:16:00",
+        "total_amount": 8.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 124,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:17:00",
+        "total_amount": 5.2,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 125,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:18:00",
+        "total_amount": 4.15,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 126,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:19:00",
+        "total_amount": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 127,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:20:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 128,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:21:00",
+        "total_amount": 2.5,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 129,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:22:00",
+        "total_amount": 4.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 130,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:23:00",
+        "total_amount": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 131,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:24:00",
+        "total_amount": 4.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 132,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:25:00",
+        "total_amount": 4.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 133,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:26:00",
+        "total_amount": 2.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 134,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:27:00",
+        "total_amount": 8.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 135,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:28:00",
+        "total_amount": 4.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 136,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:29:00",
+        "total_amount": 7.15,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 137,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:30:00",
+        "total_amount": 13.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 138,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:31:00",
+        "total_amount": 4.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 139,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:32:00",
+        "total_amount": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 140,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:34:00",
+        "total_amount": 5.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 141,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:35:00",
+        "total_amount": 12.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 142,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:36:00",
+        "total_amount": 1.95,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 143,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:37:00",
+        "total_amount": 10.35,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 144,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:38:00",
+        "total_amount": 14.6,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 145,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:39:00",
+        "total_amount": 5.35,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 146,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:40:00",
+        "total_amount": 4.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 147,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:41:00",
+        "total_amount": 4.75,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 148,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:42:00",
+        "total_amount": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 149,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:43:00",
+        "total_amount": 6.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 150,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:44:00",
+        "total_amount": 8.6,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 151,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:45:00",
+        "total_amount": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 152,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:46:00",
+        "total_amount": 7.35,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 153,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:47:00",
+        "total_amount": 8.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 154,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:48:00",
+        "total_amount": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 155,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:49:00",
+        "total_amount": 1.95,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 156,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:50:00",
+        "total_amount": 3.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 157,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:51:00",
+        "total_amount": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 158,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:52:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 159,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:53:00",
+        "total_amount": 10.55,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 160,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:55:00",
+        "total_amount": 3.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 161,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:56:00",
+        "total_amount": 2.5,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 162,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:57:00",
+        "total_amount": 10.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 163,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:58:00",
+        "total_amount": 12.35,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 164,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 13:59:00",
+        "total_amount": 9.7,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 165,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:00:00",
+        "total_amount": 7.15,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 166,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:01:00",
+        "total_amount": 5.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 167,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:02:00",
+        "total_amount": 5.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 168,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:03:00",
+        "total_amount": 5.25,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 169,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:04:00",
+        "total_amount": 10.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 170,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:04:00",
+        "total_amount": 3.2,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 171,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:05:00",
+        "total_amount": 3.25,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 172,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:06:00",
+        "total_amount": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 173,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:07:00",
+        "total_amount": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 174,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:08:00",
+        "total_amount": 7.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 175,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:09:00",
+        "total_amount": 2.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 176,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:10:00",
+        "total_amount": 6.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 177,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:11:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 178,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:12:00",
+        "total_amount": 6.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 179,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:13:00",
+        "total_amount": 7.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 180,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:14:00",
+        "total_amount": 13.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 181,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:15:00",
+        "total_amount": 7.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 182,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:16:00",
+        "total_amount": 9.95,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 183,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:17:00",
+        "total_amount": 5.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 184,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:18:00",
+        "total_amount": 5.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 185,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:18:00",
+        "total_amount": 12.25,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 186,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:19:00",
+        "total_amount": 2.6,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 187,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:20:00",
+        "total_amount": 13.2,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 188,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:21:00",
+        "total_amount": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 189,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:22:00",
+        "total_amount": 9.4,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 190,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:23:00",
+        "total_amount": 12.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 191,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:24:00",
+        "total_amount": 4.45,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 192,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:25:00",
+        "total_amount": 8.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 193,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:26:00",
+        "total_amount": 6.45,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 194,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:27:00",
+        "total_amount": 6.1,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 195,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:28:00",
+        "total_amount": 11.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 196,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:29:00",
+        "total_amount": 9.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 197,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:30:00",
+        "total_amount": 10.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 198,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:31:00",
+        "total_amount": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 199,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:32:00",
+        "total_amount": 2.75,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 200,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:32:00",
+        "total_amount": 5.2,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 201,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:33:00",
+        "total_amount": 9.2,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 202,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:34:00",
+        "total_amount": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 203,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:35:00",
+        "total_amount": 4.8,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 204,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:36:00",
+        "total_amount": 7.4,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 205,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:37:00",
+        "total_amount": 7.4,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 206,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:38:00",
+        "total_amount": 7.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 207,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:39:00",
+        "total_amount": 4.2,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 208,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:40:00",
+        "total_amount": 7.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 209,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:41:00",
+        "total_amount": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 210,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:42:00",
+        "total_amount": 11.75,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 211,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:43:00",
+        "total_amount": 10.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 212,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:44:00",
+        "total_amount": 6.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 213,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:45:00",
+        "total_amount": 5.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 214,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:46:00",
+        "total_amount": 11.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 215,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:46:00",
+        "total_amount": 10.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 216,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:47:00",
+        "total_amount": 3.2,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 217,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:48:00",
+        "total_amount": 2.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 218,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:49:00",
+        "total_amount": 5.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 219,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:50:00",
+        "total_amount": 7.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 220,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:51:00",
+        "total_amount": 10.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 221,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:52:00",
+        "total_amount": 11.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 222,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:53:00",
+        "total_amount": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 223,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:54:00",
+        "total_amount": 8.05,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 224,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:55:00",
+        "total_amount": 11.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 225,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:56:00",
+        "total_amount": 6.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 226,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:57:00",
+        "total_amount": 6.4,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 227,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:58:00",
+        "total_amount": 12.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 228,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 14:59:00",
+        "total_amount": 6.55,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 229,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:00:00",
+        "total_amount": 11.95,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 230,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:00:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 231,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:01:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 232,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:02:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 233,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:03:00",
+        "total_amount": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 234,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:04:00",
+        "total_amount": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 235,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:04:00",
+        "total_amount": 8.65,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 236,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:05:00",
+        "total_amount": 6.35,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 237,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:06:00",
+        "total_amount": 7.15,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 238,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:07:00",
+        "total_amount": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 239,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:08:00",
+        "total_amount": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 240,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:09:00",
+        "total_amount": 14.75,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 241,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:09:00",
+        "total_amount": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 242,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:10:00",
+        "total_amount": 3.25,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 243,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:11:00",
+        "total_amount": 2.7,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 244,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:12:00",
+        "total_amount": 2.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 245,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:13:00",
+        "total_amount": 10.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 246,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:13:00",
+        "total_amount": 8.8,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 247,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:14:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 248,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:15:00",
+        "total_amount": 2.6,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 249,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:16:00",
+        "total_amount": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 250,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:17:00",
+        "total_amount": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 251,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:17:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 252,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:18:00",
+        "total_amount": 4.95,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 253,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:19:00",
+        "total_amount": 2.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 254,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:20:00",
+        "total_amount": 4.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 255,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:21:00",
+        "total_amount": 5.15,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 256,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:22:00",
+        "total_amount": 7.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 257,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:22:00",
+        "total_amount": 15.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 258,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:23:00",
+        "total_amount": 5.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 259,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:24:00",
+        "total_amount": 2.5,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 260,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:25:00",
+        "total_amount": 5.0,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 261,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:26:00",
+        "total_amount": 11.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 262,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:26:00",
+        "total_amount": 9.2,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 263,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:27:00",
+        "total_amount": 5.0,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 264,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:28:00",
+        "total_amount": 14.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 265,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:29:00",
+        "total_amount": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 266,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:30:00",
+        "total_amount": 4.2,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 267,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:31:00",
+        "total_amount": 5.5,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 268,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:31:00",
+        "total_amount": 2.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 269,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:32:00",
+        "total_amount": 2.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 270,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:33:00",
+        "total_amount": 4.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 271,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:34:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 272,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:35:00",
+        "total_amount": 5.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 273,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:35:00",
+        "total_amount": 5.15,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 274,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:36:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 275,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:37:00",
+        "total_amount": 11.15,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 276,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:38:00",
+        "total_amount": 2.0,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 277,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:39:00",
+        "total_amount": 9.65,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 278,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:40:00",
+        "total_amount": 6.4,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 279,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:40:00",
+        "total_amount": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 280,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:41:00",
+        "total_amount": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 281,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:42:00",
+        "total_amount": 11.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 282,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:43:00",
+        "total_amount": 8.1,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 283,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:44:00",
+        "total_amount": 3.25,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 284,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:44:00",
+        "total_amount": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 285,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:45:00",
+        "total_amount": 6.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 286,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:46:00",
+        "total_amount": 7.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 287,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:47:00",
+        "total_amount": 7.65,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 288,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:48:00",
+        "total_amount": 4.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 289,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:49:00",
+        "total_amount": 4.2,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 290,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:49:00",
+        "total_amount": 2.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 291,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:50:00",
+        "total_amount": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 292,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:51:00",
+        "total_amount": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 293,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:52:00",
+        "total_amount": 7.8,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 294,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:53:00",
+        "total_amount": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 295,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:53:00",
+        "total_amount": 11.95,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 296,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:54:00",
+        "total_amount": 9.15,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 297,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:55:00",
+        "total_amount": 12.65,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 298,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:56:00",
+        "total_amount": 5.45,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 299,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:57:00",
+        "total_amount": 7.55,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 300,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:58:00",
+        "total_amount": 8.85,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 301,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:58:00",
+        "total_amount": 4.7,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 302,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 15:59:00",
+        "total_amount": 6.65,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 303,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:00:00",
+        "total_amount": 5.05,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 304,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:03:00",
+        "total_amount": 4.75,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 305,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:06:00",
+        "total_amount": 14.9,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 306,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:09:00",
+        "total_amount": 2.75,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 307,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:13:00",
+        "total_amount": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 308,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:16:00",
+        "total_amount": 4.3,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 309,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:19:00",
+        "total_amount": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 310,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:22:00",
+        "total_amount": 8.8,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 311,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:25:00",
+        "total_amount": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 312,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:28:00",
+        "total_amount": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 313,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:31:00",
+        "total_amount": 4.75,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 314,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:35:00",
+        "total_amount": 7.35,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 315,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:38:00",
+        "total_amount": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 316,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:41:00",
+        "total_amount": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 317,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:44:00",
+        "total_amount": 9.75,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 318,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:47:00",
+        "total_amount": 5.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 319,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:50:00",
+        "total_amount": 5.05,
+        "payment_method": "CASH"
+    },
+    {
+        "payment_id": 320,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:54:00",
+        "total_amount": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "payment_id": 321,
+        "branch_id": 1,
+        "timestamp": "2024-04-21 16:57:00",
+        "total_amount": 6.55,
+        "payment_method": "CASH"
+    }
+]

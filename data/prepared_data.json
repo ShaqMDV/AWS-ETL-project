@@ -1,0 +1,6295 @@
+[
+    {
+        "timestamp": "21/04/2024 09:00",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 4.35,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 09:01",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:03",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:05",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:07",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:09",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 7.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:10",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.8,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:12",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:14",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 2.75,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:16",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 4.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:18",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 8.4,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 09:19",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 4.1,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 09:21",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 5.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:23",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 7.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:25",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 13.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:27",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 10.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:29",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 1.95,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:30",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:32",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:34",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 13.05,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 09:36",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 4.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:38",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 3.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:39",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 9.4,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:41",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:43",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 9.7,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 09:45",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 8.2,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 09:47",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 8.75,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 09:49",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 2.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:50",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:52",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 9.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:54",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:56",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 8.4,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 09:58",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 7.7,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 09:59",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:01",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 9.95,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:03",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 3.9,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:04",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:05",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 7.15,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:07",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 5.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:08",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 7.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:09",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 10.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:11",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 9.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:12",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 2.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:13",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 13.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:15",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 6.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:16",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 9.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:17",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 9.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:19",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 7.9,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:20",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:21",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:23",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:24",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 5.5,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:25",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 4.0,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:27",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:28",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 14.8,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:29",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 13.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:31",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 5.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:32",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:33",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 10.4,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:35",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 13.15,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:36",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 6.85,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:37",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 3.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:39",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 6.15,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:40",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 5.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:41",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 7.65,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:43",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 8.8,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:44",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 5.85,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:45",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 6.9,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:47",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 13.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:48",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 6.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:49",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:51",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 9.2,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:52",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 4.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 10:53",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 12.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:55",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 2.75,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:56",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 4.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:57",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 10:59",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 6.55,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:00",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:02",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 12.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:05",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 5.2,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:07",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 4.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:10",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 8.4,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:12",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 4.5,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:15",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:17",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 9.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:20",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 8.7,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:22",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 2.6,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:25",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 3.8,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:27",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:30",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 11.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:32",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 7.25,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:35",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.8,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:37",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 2.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:40",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 5.7,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:42",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:45",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 12.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:47",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 4.75,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 11:50",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 4.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:52",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 12.75,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:55",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 3.2,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 11:57",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 12:00",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 10.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 12:12",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 6.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 12:24",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 11.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 12:36",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 7.45,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 12:48",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 10.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:00",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:01",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:02",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 11.1,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:03",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:04",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:05",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 9.35,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:06",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:07",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 11.8,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:08",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:09",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 4.8,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:10",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 9.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:11",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:13",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:14",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:15",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.8,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:16",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 8.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:17",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 5.2,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:18",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 4.15,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:19",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:20",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:21",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:22",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 4.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:23",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:24",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 4.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:25",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 4.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:26",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:27",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 8.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:28",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 4.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:29",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 7.15,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:30",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 13.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:31",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 4.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:32",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:34",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 5.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:35",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 12.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:36",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 1.95,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:37",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 10.35,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:38",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 14.6,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:39",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 5.35,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:40",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 4.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:41",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 4.75,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:42",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:43",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 6.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:44",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 8.6,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:45",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:46",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 7.35,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:47",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 8.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:48",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:49",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 1.95,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:50",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 3.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:51",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:52",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:53",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 10.55,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:55",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 3.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:56",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 13:57",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 10.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:58",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 12.35,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 13:59",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 9.7,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:00",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 7.15,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:01",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 5.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:02",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 5.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:03",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 5.25,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:04",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 10.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:04",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 3.2,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:05",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:06",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:07",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:08",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 7.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:09",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:10",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 6.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:11",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:12",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 6.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:13",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 7.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:14",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 13.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:15",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 7.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:16",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 9.95,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:17",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 5.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:18",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 5.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:18",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 12.25,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:19",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.6,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:20",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 13.2,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:21",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:22",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 9.4,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:23",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 12.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:24",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 4.45,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:25",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 8.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:26",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 6.45,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:27",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.1,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:28",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 11.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:29",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 9.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:30",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 10.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:31",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:32",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 2.75,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:32",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 5.2,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:33",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 9.2,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:34",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:35",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 4.8,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:36",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 7.4,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:37",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 7.4,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:38",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 7.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:39",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 4.2,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:40",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 7.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:41",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:42",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 11.75,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:43",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 10.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:44",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:45",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 5.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:46",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 11.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:46",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 10.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:47",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 3.2,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 14:48",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:49",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 5.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:50",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 7.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:51",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 10.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:52",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 11.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:53",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:54",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 8.05,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:55",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 11.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:56",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 6.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:57",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.4,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:58",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 12.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 14:59",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 6.55,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:00",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 11.95,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:00",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:01",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:02",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:03",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:04",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:04",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 8.65,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:05",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 6.35,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:06",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 7.15,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:07",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:08",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:09",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 14.75,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:09",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:10",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:11",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.7,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:12",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 2.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:13",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 10.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:13",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 8.8,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:14",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:15",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.6,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:16",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 2.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:17",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:17",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:18",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 4.95,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:19",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:20",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 4.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:21",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 5.15,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:22",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 7.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:22",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 15.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:23",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 5.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:24",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:25",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 5.0,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:26",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 11.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:26",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 9.2,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:27",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 5.0,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:28",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 14.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:29",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:30",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 4.2,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:31",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 5.5,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:31",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:32",
+        "location": "Edinburgh",
+        "items": [],
+        "total_cost": 2.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:33",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 4.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:34",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:35",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 5.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:35",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 5.15,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:36",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:37",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 11.15,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:38",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:39",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 9.65,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:40",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 6.4,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:40",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:41",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:42",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            }
+        ],
+        "total_cost": 11.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:43",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 8.1,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:44",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:44",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:45",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 6.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:46",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 7.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:47",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 7.65,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:48",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 4.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:49",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 4.2,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:49",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 2.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:50",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:51",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:52",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 7.8,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:53",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 7.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:53",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 11.95,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:54",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 9.15,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:55",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            }
+        ],
+        "total_cost": 12.65,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 15:56",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 5.45,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:57",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 7.55,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:58",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 8.85,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:58",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 4.7,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 15:59",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 6.65,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:00",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 5.05,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 16:03",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 4.75,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 16:06",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.55
+            }
+        ],
+        "total_cost": 14.9,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:09",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 2.75,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:13",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 1.3,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 16:16",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 4.3,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:19",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 1.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:22",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 8.8,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 16:25",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 3.25,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:28",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:31",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 4.75,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:35",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 2.85
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 7.35,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:38",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Large",
+                "price": 2.5
+            }
+        ],
+        "total_cost": 2.5,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:41",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Fruit",
+                "size": "Large",
+                "price": 1.6
+            },
+            {
+                "item_name": "Smoothies",
+                "variant": "Glowing Greens",
+                "size": "Regular",
+                "price": 2.0
+            }
+        ],
+        "total_cost": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:44",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Large",
+                "price": 1.6
+            }
+        ],
+        "total_cost": 9.75,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 16:47",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 5.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:50",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Regular",
+                "price": 2.75
+            }
+        ],
+        "total_cost": 5.05,
+        "payment_method": "CASH"
+    },
+    {
+        "timestamp": "21/04/2024 16:54",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Green",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 3.6,
+        "payment_method": "CARD"
+    },
+    {
+        "timestamp": "21/04/2024 16:57",
+        "location": "Edinburgh",
+        "items": [
+            {
+                "item_name": "Smoothies",
+                "variant": "Carrot Kick",
+                "size": "Regular",
+                "price": 2.0
+            },
+            {
+                "item_name": "Flavoured iced latte",
+                "variant": "Hazelnut",
+                "size": "Large",
+                "price": 3.25
+            },
+            {
+                "item_name": "Speciality Tea",
+                "variant": "Earl Grey",
+                "size": "Regular",
+                "price": 1.3
+            }
+        ],
+        "total_cost": 6.55,
+        "payment_method": "CASH"
+    }
+]
